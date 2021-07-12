@@ -20,6 +20,8 @@ PM> Install-Package CG.Secrets.Aws
 #### How do I contact you?
 If you've spotted a bug in the code please use the project Issues [HERE](https://github.com/CodeGator/CG.Secrets.Aws/issues)
 
+We have a discussion groupd [HERE](https://github.com/CodeGator/CG.Secrets.Aws/discussions)
+
 #### Is there any documentation?
 There is developer documentation [HERE](https://codegator.github.io/CG.Secrets.Aws/)
 
