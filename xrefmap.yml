@@ -1,0 +1,149 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: CG.Secrets.Aws.Repositories
+  name: CG.Secrets.Aws.Repositories
+  href: api/CG.Secrets.Aws.Repositories.html
+  commentId: N:CG.Secrets.Aws.Repositories
+  fullName: CG.Secrets.Aws.Repositories
+  nameWithType: CG.Secrets.Aws.Repositories
+- uid: CG.Secrets.Aws.Repositories.Options
+  name: CG.Secrets.Aws.Repositories.Options
+  href: api/CG.Secrets.Aws.Repositories.Options.html
+  commentId: N:CG.Secrets.Aws.Repositories.Options
+  fullName: CG.Secrets.Aws.Repositories.Options
+  nameWithType: CG.Secrets.Aws.Repositories.Options
+- uid: CG.Secrets.Aws.Repositories.Options.SecretRepositoryOptions
+  name: SecretRepositoryOptions
+  href: api/CG.Secrets.Aws.Repositories.Options.SecretRepositoryOptions.html
+  commentId: T:CG.Secrets.Aws.Repositories.Options.SecretRepositoryOptions
+  fullName: CG.Secrets.Aws.Repositories.Options.SecretRepositoryOptions
+  nameWithType: SecretRepositoryOptions
+- uid: CG.Secrets.Aws.Repositories.Options.SecretRepositoryOptions.AccessKeyId
+  name: AccessKeyId
+  href: api/CG.Secrets.Aws.Repositories.Options.SecretRepositoryOptions.html#CG_Secrets_Aws_Repositories_Options_SecretRepositoryOptions_AccessKeyId
+  commentId: P:CG.Secrets.Aws.Repositories.Options.SecretRepositoryOptions.AccessKeyId
+  fullName: CG.Secrets.Aws.Repositories.Options.SecretRepositoryOptions.AccessKeyId
+  nameWithType: SecretRepositoryOptions.AccessKeyId
+- uid: CG.Secrets.Aws.Repositories.Options.SecretRepositoryOptions.AccessKeyId*
+  name: AccessKeyId
+  href: api/CG.Secrets.Aws.Repositories.Options.SecretRepositoryOptions.html#CG_Secrets_Aws_Repositories_Options_SecretRepositoryOptions_AccessKeyId_
+  commentId: Overload:CG.Secrets.Aws.Repositories.Options.SecretRepositoryOptions.AccessKeyId
+  isSpec: "True"
+  fullName: CG.Secrets.Aws.Repositories.Options.SecretRepositoryOptions.AccessKeyId
+  nameWithType: SecretRepositoryOptions.AccessKeyId
+- uid: CG.Secrets.Aws.Repositories.Options.SecretRepositoryOptions.Region
+  name: Region
+  href: api/CG.Secrets.Aws.Repositories.Options.SecretRepositoryOptions.html#CG_Secrets_Aws_Repositories_Options_SecretRepositoryOptions_Region
+  commentId: P:CG.Secrets.Aws.Repositories.Options.SecretRepositoryOptions.Region
+  fullName: CG.Secrets.Aws.Repositories.Options.SecretRepositoryOptions.Region
+  nameWithType: SecretRepositoryOptions.Region
+- uid: CG.Secrets.Aws.Repositories.Options.SecretRepositoryOptions.Region*
+  name: Region
+  href: api/CG.Secrets.Aws.Repositories.Options.SecretRepositoryOptions.html#CG_Secrets_Aws_Repositories_Options_SecretRepositoryOptions_Region_
+  commentId: Overload:CG.Secrets.Aws.Repositories.Options.SecretRepositoryOptions.Region
+  isSpec: "True"
+  fullName: CG.Secrets.Aws.Repositories.Options.SecretRepositoryOptions.Region
+  nameWithType: SecretRepositoryOptions.Region
+- uid: CG.Secrets.Aws.Repositories.Options.SecretRepositoryOptions.SecretAccessKey
+  name: SecretAccessKey
+  href: api/CG.Secrets.Aws.Repositories.Options.SecretRepositoryOptions.html#CG_Secrets_Aws_Repositories_Options_SecretRepositoryOptions_SecretAccessKey
+  commentId: P:CG.Secrets.Aws.Repositories.Options.SecretRepositoryOptions.SecretAccessKey
+  fullName: CG.Secrets.Aws.Repositories.Options.SecretRepositoryOptions.SecretAccessKey
+  nameWithType: SecretRepositoryOptions.SecretAccessKey
+- uid: CG.Secrets.Aws.Repositories.Options.SecretRepositoryOptions.SecretAccessKey*
+  name: SecretAccessKey
+  href: api/CG.Secrets.Aws.Repositories.Options.SecretRepositoryOptions.html#CG_Secrets_Aws_Repositories_Options_SecretRepositoryOptions_SecretAccessKey_
+  commentId: Overload:CG.Secrets.Aws.Repositories.Options.SecretRepositoryOptions.SecretAccessKey
+  isSpec: "True"
+  fullName: CG.Secrets.Aws.Repositories.Options.SecretRepositoryOptions.SecretAccessKey
+  nameWithType: SecretRepositoryOptions.SecretAccessKey
+- uid: CG.Secrets.Aws.Repositories.SecretRepository
+  name: SecretRepository
+  href: api/CG.Secrets.Aws.Repositories.SecretRepository.html
+  commentId: T:CG.Secrets.Aws.Repositories.SecretRepository
+  fullName: CG.Secrets.Aws.Repositories.SecretRepository
+  nameWithType: SecretRepository
+- uid: CG.Secrets.Aws.Repositories.SecretRepository.#ctor(Amazon.SecretsManager.AmazonSecretsManagerClient)
+  name: SecretRepository(AmazonSecretsManagerClient)
+  href: api/CG.Secrets.Aws.Repositories.SecretRepository.html#CG_Secrets_Aws_Repositories_SecretRepository__ctor_Amazon_SecretsManager_AmazonSecretsManagerClient_
+  commentId: M:CG.Secrets.Aws.Repositories.SecretRepository.#ctor(Amazon.SecretsManager.AmazonSecretsManagerClient)
+  fullName: CG.Secrets.Aws.Repositories.SecretRepository.SecretRepository(Amazon.SecretsManager.AmazonSecretsManagerClient)
+  nameWithType: SecretRepository.SecretRepository(AmazonSecretsManagerClient)
+- uid: CG.Secrets.Aws.Repositories.SecretRepository.#ctor*
+  name: SecretRepository
+  href: api/CG.Secrets.Aws.Repositories.SecretRepository.html#CG_Secrets_Aws_Repositories_SecretRepository__ctor_
+  commentId: Overload:CG.Secrets.Aws.Repositories.SecretRepository.#ctor
+  isSpec: "True"
+  fullName: CG.Secrets.Aws.Repositories.SecretRepository.SecretRepository
+  nameWithType: SecretRepository.SecretRepository
+- uid: CG.Secrets.Aws.Repositories.SecretRepository.GetByNameAsync(System.String,System.Threading.CancellationToken)
+  name: GetByNameAsync(String, CancellationToken)
+  href: api/CG.Secrets.Aws.Repositories.SecretRepository.html#CG_Secrets_Aws_Repositories_SecretRepository_GetByNameAsync_System_String_System_Threading_CancellationToken_
+  commentId: M:CG.Secrets.Aws.Repositories.SecretRepository.GetByNameAsync(System.String,System.Threading.CancellationToken)
+  fullName: CG.Secrets.Aws.Repositories.SecretRepository.GetByNameAsync(System.String, System.Threading.CancellationToken)
+  nameWithType: SecretRepository.GetByNameAsync(String, CancellationToken)
+- uid: CG.Secrets.Aws.Repositories.SecretRepository.GetByNameAsync*
+  name: GetByNameAsync
+  href: api/CG.Secrets.Aws.Repositories.SecretRepository.html#CG_Secrets_Aws_Repositories_SecretRepository_GetByNameAsync_
+  commentId: Overload:CG.Secrets.Aws.Repositories.SecretRepository.GetByNameAsync
+  isSpec: "True"
+  fullName: CG.Secrets.Aws.Repositories.SecretRepository.GetByNameAsync
+  nameWithType: SecretRepository.GetByNameAsync
+- uid: CG.Secrets.Aws.Repositories.SecretRepository.SecretClient
+  name: SecretClient
+  href: api/CG.Secrets.Aws.Repositories.SecretRepository.html#CG_Secrets_Aws_Repositories_SecretRepository_SecretClient
+  commentId: P:CG.Secrets.Aws.Repositories.SecretRepository.SecretClient
+  fullName: CG.Secrets.Aws.Repositories.SecretRepository.SecretClient
+  nameWithType: SecretRepository.SecretClient
+- uid: CG.Secrets.Aws.Repositories.SecretRepository.SecretClient*
+  name: SecretClient
+  href: api/CG.Secrets.Aws.Repositories.SecretRepository.html#CG_Secrets_Aws_Repositories_SecretRepository_SecretClient_
+  commentId: Overload:CG.Secrets.Aws.Repositories.SecretRepository.SecretClient
+  isSpec: "True"
+  fullName: CG.Secrets.Aws.Repositories.SecretRepository.SecretClient
+  nameWithType: SecretRepository.SecretClient
+- uid: CG.Secrets.Aws.Repositories.SecretRepository.SetByNameAsync(System.String,System.String,System.Threading.CancellationToken)
+  name: SetByNameAsync(String, String, CancellationToken)
+  href: api/CG.Secrets.Aws.Repositories.SecretRepository.html#CG_Secrets_Aws_Repositories_SecretRepository_SetByNameAsync_System_String_System_String_System_Threading_CancellationToken_
+  commentId: M:CG.Secrets.Aws.Repositories.SecretRepository.SetByNameAsync(System.String,System.String,System.Threading.CancellationToken)
+  fullName: CG.Secrets.Aws.Repositories.SecretRepository.SetByNameAsync(System.String, System.String, System.Threading.CancellationToken)
+  nameWithType: SecretRepository.SetByNameAsync(String, String, CancellationToken)
+- uid: CG.Secrets.Aws.Repositories.SecretRepository.SetByNameAsync*
+  name: SetByNameAsync
+  href: api/CG.Secrets.Aws.Repositories.SecretRepository.html#CG_Secrets_Aws_Repositories_SecretRepository_SetByNameAsync_
+  commentId: Overload:CG.Secrets.Aws.Repositories.SecretRepository.SetByNameAsync
+  isSpec: "True"
+  fullName: CG.Secrets.Aws.Repositories.SecretRepository.SetByNameAsync
+  nameWithType: SecretRepository.SetByNameAsync
+- uid: Microsoft.Extensions.DependencyInjection
+  name: Microsoft.Extensions.DependencyInjection
+  href: api/Microsoft.Extensions.DependencyInjection.html
+  commentId: N:Microsoft.Extensions.DependencyInjection
+  fullName: Microsoft.Extensions.DependencyInjection
+  nameWithType: Microsoft.Extensions.DependencyInjection
+- uid: Microsoft.Extensions.DependencyInjection.SecretsAwsServiceCollectionExtensions
+  name: SecretsAwsServiceCollectionExtensions
+  href: api/Microsoft.Extensions.DependencyInjection.SecretsAwsServiceCollectionExtensions.html
+  commentId: T:Microsoft.Extensions.DependencyInjection.SecretsAwsServiceCollectionExtensions
+  fullName: Microsoft.Extensions.DependencyInjection.SecretsAwsServiceCollectionExtensions
+  nameWithType: SecretsAwsServiceCollectionExtensions
+- uid: Microsoft.Extensions.DependencyInjection.SecretsAwsServiceCollectionExtensions.AddAwsRepositories(Microsoft.Extensions.DependencyInjection.IServiceCollection,Microsoft.AspNetCore.DataProtection.IDataProtector,Microsoft.Extensions.Configuration.IConfiguration,Microsoft.Extensions.DependencyInjection.ServiceLifetime)
+  name: AddAwsRepositories(IServiceCollection, IDataProtector, IConfiguration, ServiceLifetime)
+  href: api/Microsoft.Extensions.DependencyInjection.SecretsAwsServiceCollectionExtensions.html#Microsoft_Extensions_DependencyInjection_SecretsAwsServiceCollectionExtensions_AddAwsRepositories_Microsoft_Extensions_DependencyInjection_IServiceCollection_Microsoft_AspNetCore_DataProtection_IDataProtector_Microsoft_Extensions_Configuration_IConfiguration_Microsoft_Extensions_DependencyInjection_ServiceLifetime_
+  commentId: M:Microsoft.Extensions.DependencyInjection.SecretsAwsServiceCollectionExtensions.AddAwsRepositories(Microsoft.Extensions.DependencyInjection.IServiceCollection,Microsoft.AspNetCore.DataProtection.IDataProtector,Microsoft.Extensions.Configuration.IConfiguration,Microsoft.Extensions.DependencyInjection.ServiceLifetime)
+  fullName: Microsoft.Extensions.DependencyInjection.SecretsAwsServiceCollectionExtensions.AddAwsRepositories(Microsoft.Extensions.DependencyInjection.IServiceCollection, Microsoft.AspNetCore.DataProtection.IDataProtector, Microsoft.Extensions.Configuration.IConfiguration, Microsoft.Extensions.DependencyInjection.ServiceLifetime)
+  nameWithType: SecretsAwsServiceCollectionExtensions.AddAwsRepositories(IServiceCollection, IDataProtector, IConfiguration, ServiceLifetime)
+- uid: Microsoft.Extensions.DependencyInjection.SecretsAwsServiceCollectionExtensions.AddAwsRepositories(Microsoft.Extensions.DependencyInjection.IServiceCollection,Microsoft.Extensions.Configuration.IConfiguration,Microsoft.Extensions.DependencyInjection.ServiceLifetime)
+  name: AddAwsRepositories(IServiceCollection, IConfiguration, ServiceLifetime)
+  href: api/Microsoft.Extensions.DependencyInjection.SecretsAwsServiceCollectionExtensions.html#Microsoft_Extensions_DependencyInjection_SecretsAwsServiceCollectionExtensions_AddAwsRepositories_Microsoft_Extensions_DependencyInjection_IServiceCollection_Microsoft_Extensions_Configuration_IConfiguration_Microsoft_Extensions_DependencyInjection_ServiceLifetime_
+  commentId: M:Microsoft.Extensions.DependencyInjection.SecretsAwsServiceCollectionExtensions.AddAwsRepositories(Microsoft.Extensions.DependencyInjection.IServiceCollection,Microsoft.Extensions.Configuration.IConfiguration,Microsoft.Extensions.DependencyInjection.ServiceLifetime)
+  fullName: Microsoft.Extensions.DependencyInjection.SecretsAwsServiceCollectionExtensions.AddAwsRepositories(Microsoft.Extensions.DependencyInjection.IServiceCollection, Microsoft.Extensions.Configuration.IConfiguration, Microsoft.Extensions.DependencyInjection.ServiceLifetime)
+  nameWithType: SecretsAwsServiceCollectionExtensions.AddAwsRepositories(IServiceCollection, IConfiguration, ServiceLifetime)
+- uid: Microsoft.Extensions.DependencyInjection.SecretsAwsServiceCollectionExtensions.AddAwsRepositories*
+  name: AddAwsRepositories
+  href: api/Microsoft.Extensions.DependencyInjection.SecretsAwsServiceCollectionExtensions.html#Microsoft_Extensions_DependencyInjection_SecretsAwsServiceCollectionExtensions_AddAwsRepositories_
+  commentId: Overload:Microsoft.Extensions.DependencyInjection.SecretsAwsServiceCollectionExtensions.AddAwsRepositories
+  isSpec: "True"
+  fullName: Microsoft.Extensions.DependencyInjection.SecretsAwsServiceCollectionExtensions.AddAwsRepositories
+  nameWithType: SecretsAwsServiceCollectionExtensions.AddAwsRepositories
